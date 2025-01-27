@@ -1,0 +1,10 @@
+body{
+  margin: 0px;
+}
+.MuiToolbar-root{
+  display: flex;
+  gap: 5px;
+}
+#root{
+  text-align: center;
+}
